@@ -7,6 +7,8 @@
 .btn-panda{
     background-color: #FF3383;
     border: none;
+    padding: 6px 15px;
+    font-size: 18px;
 }
 .bg-cate1{
     background-color: #FFA500;
